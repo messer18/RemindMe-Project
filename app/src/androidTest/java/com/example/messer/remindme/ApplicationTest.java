@@ -6,18 +6,12 @@ import android.test.ApplicationTestCase;
 /**
  * <a href="http://d.android.com/tools/testing/testing_android.html">Testing Fundamentals</a>
  */
-public class ApplicationTest extends ApplicationTestCase<Application> {
-    public ApplicationTest() {
+public class ApplicationTest 
+extends ApplicationTestCase<Application> 
+{
+    public ApplicationTest() 
+    {
         super(Application.class);
-
-      // fgfg
-
-         // fgfg
-         // fgfg
-         // fgfg
-         // fgfg
-        //
-        //
-        // commit 4
+        // commit 4 - test-b
     }
 }
